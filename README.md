@@ -1,4 +1,3 @@
-# FirstMLProject
-A simple implementation to get used to writing code again using Python and the Wing IDE, pushing code to github, and most importantly learning how M.L. concepts and be coded to solve problems. 
-
-This should be fun!
+# The Goal
+The goal of this repo is be a constistent warehouse to contain and display my various first hand applications using machine learning concepts. 
+I'll have various self-contained projects to deep the concepts I'm learning and putting them to use here. Feel free to clone and tweak to learn as I learn!
